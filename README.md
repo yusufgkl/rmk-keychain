@@ -2,7 +2,7 @@
 r/mk keychain, drawed from the logo
 
 STL files to 3D print it
-DWG files to laser cut it
+DXF files to laser cut it
 
 Cutted in 3mm acrylic
 
